@@ -1,0 +1,12 @@
+{
+	"Name": "jack",
+	"Age": 43,
+	"Contact": "west ave ",
+	"Company": "company4",
+	"Address": {
+		"City": "london",
+		"State": "london",
+		"Country": "Uk",
+		"Pincode": 1235
+	}
+}

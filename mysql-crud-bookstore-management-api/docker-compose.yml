@@ -1,0 +1,8 @@
+version: '3'
+services:
+  book-crud:
+    image: book-crud:1.0.0
+    build: .
+    ports:
+        - 8080:8080
+    

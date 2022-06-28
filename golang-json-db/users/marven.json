@@ -1,0 +1,12 @@
+{
+	"Name": "marven",
+	"Age": 52,
+	"Contact": "5th ave ",
+	"Company": "company5",
+	"Address": {
+		"City": "bridgeport",
+		"State": "wv",
+		"Country": "US",
+		"Pincode": 123
+	}
+}

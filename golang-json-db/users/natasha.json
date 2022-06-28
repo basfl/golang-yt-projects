@@ -1,0 +1,12 @@
+{
+	"Name": "natasha",
+	"Age": 21,
+	"Contact": "east street ",
+	"Company": "company6",
+	"Address": {
+		"City": "sf",
+		"State": "ca",
+		"Country": "US",
+		"Pincode": 123
+	}
+}

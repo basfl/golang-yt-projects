@@ -1,0 +1,12 @@
+{
+	"Name": "amir",
+	"Age": 32,
+	"Contact": "beesat ",
+	"Company": "company3",
+	"Address": {
+		"City": "syz",
+		"State": "fars",
+		"Country": "Iran",
+		"Pincode": 123
+	}
+}

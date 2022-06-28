@@ -1,0 +1,12 @@
+{
+	"Name": "john",
+	"Age": 23,
+	"Contact": "1st ave ",
+	"Company": "company1",
+	"Address": {
+		"City": "nyc",
+		"State": "ny",
+		"Country": "US",
+		"Pincode": 123
+	}
+}

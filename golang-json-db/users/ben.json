@@ -1,0 +1,12 @@
+{
+	"Name": "ben",
+	"Age": 28,
+	"Contact": "main street ",
+	"Company": "company2",
+	"Address": {
+		"City": "alb",
+		"State": "nm",
+		"Country": "US",
+		"Pincode": 123
+	}
+}
